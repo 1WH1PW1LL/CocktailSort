@@ -30,7 +30,7 @@ public class CocktailShaker {
                 break;
             }
 
-            checker = true;
+            checker = false;
 
             end = end-1;
 
